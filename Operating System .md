@@ -97,7 +97,7 @@ CPU가 연산을 하려면 필요한 데이터를 CPU로 가져와 임시로 보
 
 
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Fivestagespipeline.png" width="350px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Fivestagespipeline.png" width="350px"/>
 
   - 
 
@@ -127,7 +127,7 @@ CPU가 연산을 하려면 필요한 데이터를 CPU로 가져와 임시로 보
 
 
 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Superscalarpipeline.png" width="350px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Superscalarpipeline.png" width="350px"/>
 
 
 
